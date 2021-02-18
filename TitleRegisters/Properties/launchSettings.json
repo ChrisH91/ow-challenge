@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TitleRegisters": {
+      "commandName": "Project",
+      "commandLineArgs": "TitleRegisters.dll schedule_of_notices_of_lease_examples.json formatted_schedule.json"
+    }
+  }
+}
